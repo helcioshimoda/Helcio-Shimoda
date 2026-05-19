@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Helcio Yuji Shimoda 👋</h1>
+<h1 align="center">Olá, eu sou o Helcio👋</h1>
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Fatec Campinas<br/>
