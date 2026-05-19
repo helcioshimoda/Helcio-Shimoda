@@ -9,16 +9,16 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — Fatec Campinas
-- 🌱 Estudando e evoluindo continuamente em **Front End e Back End**
-- 💡 Sempre em busca de novos desafios e aprendizados na área de tecnologia
-- 📍 Campinas, SP — Brasil
+- Cursando **Análise e Desenvolvimento de Sistemas** — Fatec Campinas
+- Estudando e evoluindo continuamente em **Front End e Back End**
+- Sempre em busca de novos desafios e aprendizados na área de tecnologia
+- Campinas, SP — Brasil
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ Ferramentas
+### Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 📬 Contato
+### Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/helcio-shimoda/" target="_blank">
