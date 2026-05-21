@@ -18,7 +18,7 @@
 
 ---
 
-### Tecnologias
+### Linguagens e Tecnologias
 
 <div id="Logo">    
    <p align="center">
